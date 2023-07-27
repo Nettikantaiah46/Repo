@@ -1,11 +1,2 @@
-What is the tools of risk management?
-iam the developing this risk management
-hello iam developer1
-iam the developing this risk management
 
-What is Risk Management and Why is it Important?
-Risk management is the process of identifying, assessing and 
-controlling threats to an organization's capital and earnings. 
-These risks stem from a variety of sources, including financial uncertainties, 
-legal liabilities, technology issues, strategic management errors, accidents
- and natural disasters.
+Hello iam developer1
